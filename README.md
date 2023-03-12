@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhilasha v</h1>
-<h3 align="center">A passionate software developer, professional Animation artist from India</h3>
+<h3 align="center">3D artist who is imaginative and meticulous and has a solid foundation in the digital arts, graphic design, UI design and environment asset design. Strong work ethic, adaptability, and exceptional interpersonal skills.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi100a" alt="abhi100a" /></a> </p>
 
